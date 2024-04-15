@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TranslateTextKotlin</string>
+    <string name="translateText">Hi, this is a TRANSLATE</string>
+</resources>
